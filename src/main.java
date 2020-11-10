@@ -3,6 +3,8 @@ public class main {
         //write your code here
         System.out.println("Hello1");
         //line one
+        // it is great option
+
 
     }
 }
